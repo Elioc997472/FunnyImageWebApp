@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+label {
+  display: block; /* Stack the labels and inputs vertically */
+  margin: 10px 0; /* Add some spacing between them */
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
